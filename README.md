@@ -1,2 +1,2 @@
 # me-test
-game server based on skynet
+game server based on ---
